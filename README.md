@@ -34,8 +34,8 @@
 
 ## 📬 Contact Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:본인이메일@gmail.com)](mailto:본인이메일@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=velog&logoColor=white&link=본인블로그주소)](본인블로그주소)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gusdk3577@gmail.com)](mailto:gusdk3577@gmail.com)
+[![Blog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=velog&logoColor=white&link=https://blog.naver.com/bbaehyunn)](https://blog.naver.com/bbaehyunn)
 
 <p align="right">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgaebarja99&title=Hits&edge_flat=false" alt="Hits"/>
