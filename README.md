@@ -22,15 +22,6 @@
 | **GameMatcher**<br><sub>(팀 프로젝트)</sub> | **게이머들을 위한 전적 검색 및 실시간 매칭·채팅 플랫폼**<br>• 단일 레포지토리 관리 구조<br>• 핵심 기능 구동 시연 영상 및 PPT 포함 | Java, Spring Boot, React, WebSocket(STOMP), MySQL | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/gaebarja99/game-matching-platform.git)<br>[![시연영상](https://img.shields.io/badge/시연영상-4285F4?style=flat-square)](https://drive.google.com/file/d/10vvO0tvCRcR1RpF-fbHd-9fUmhgqf6jJ/preview)<br>[![발표PPT](https://img.shields.io/badge/발표PPT-D14836?style=flat-square)](https://canva.link/bwkivjhees3gg96) |
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaebarja99&show_icons=true&theme=radical&hide_border=true" alt="gaebarja99's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaebarja99&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
-</p>
-
----
-
 ## 📬 Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gusdk3577@gmail.com)](mailto:gusdk3577@gmail.com)
