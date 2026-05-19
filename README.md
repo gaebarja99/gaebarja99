@@ -19,7 +19,7 @@
 | :---: | --- | --- | :---: |
 | **TasteRadar**<br><sub>(개인 프로젝트)</sub> | **취향 분석 기반 맛집 추천 서비스**<br>• 요구사항 및 API 명세서 기반 설계<br>• 발표 자료(PPT) 포함 | Java, Spring Boot, React, MySQL | [백엔드](https://github.com/gaebarja99/taste-radar-BE.git) / [프론트엔드](https://github.com/gaebarja99/taste-radar-FE.git)<br>[요구사항 명세서](https://www.notion.so/35c65ed6701d8014a75ef11745136984?source=copy_link) / [API 명세서](https://www.notion.so/API-35d65ed6701d808db5c4fe0c7754263d?source=copy_link)<br>[PPT](https://canva.link/q7ztzu8r36yatno) |
 | **EatNow**<br><sub>(팀 프로젝트)</sub> | **실시간 주변 식당 예약 및 주문 플랫폼**<br>• 프론트엔드-백엔드 저장소 분리 운영<br>• 효율적인 API 연동 및 데이터 흐름 구현 | Java, Spring Boot, React, MySQL, Redis | [Backend](https://github.com/jiyeon0926/mini-delivery-order-frontend.git) / [Frontend](https://github.com/jiyeon0926/mini-delivery-order-frontend.git) |
-| **GameMatcher**<br><sub>(팀 프로젝트)</sub> | **게이머들을 위한 전적 검색 및 실시간 매칭·채팅 플랫폼**<br>• 단일 레포지토리 관리 구조<br>• 핵심 기능 구동 시연 영상 및 PPT 포함 | Java, Spring Boot, React, WebSocket(STOMP), MySQL | [Repository](https://github.com/gaebarja99/game-matching-platform.git)<br>[Demo Video](https://github.com/gaebarja99)<br>[Presentation PPT](https://github.com/gaebarja99) |
+| **GameMatcher**<br><sub>(팀 프로젝트)</sub> | **게이머들을 위한 전적 검색 및 실시간 매칭·채팅 플랫폼**<br>• 단일 레포지토리 관리 구조<br>• 핵심 기능 구동 시연 영상 및 PPT 포함 | Java, Spring Boot, React, WebSocket(STOMP), MySQL | [Repository](https://github.com/gaebarja99/game-matching-platform.git)<br>[Demo Video](https://github.com/gaebarja99)<br>[PPT](https://canva.link/bwkivjhees3gg96) |
 
 ---
 
