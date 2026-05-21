@@ -23,6 +23,9 @@
 
 ---
 
+## 📚study
+https://blog.naver.com/bbaehyunn
+
 ## 📬 Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gusdk3577@gmail.com)](mailto:gusdk3577@gmail.com)
