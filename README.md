@@ -24,7 +24,7 @@
 ---
 
 ## 📚study
-https://blog.naver.com/bbaehyunn
+[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/bbaehyunn)
 
 ## 📬 Contact Me
 
