@@ -29,4 +29,3 @@
 ## 📬 Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gusdk3577@gmail.com)](mailto:gusdk3577@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=velog&logoColor=white&link=https://blog.naver.com/bbaehyunn)](https://blog.naver.com/bbaehyunn)
