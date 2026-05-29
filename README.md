@@ -4,6 +4,7 @@
 ---
 
 ## 🚀 Featured Projects
+**TasteRadar**<br><sub>(개인 프로젝트)</sub> | **사용자 취향 분석 맛집 추천 서비스**<br>• 실시간 위치 기반 가게 검색<br>• 리뷰 기반 메뉴 추천<br><br>🔗 **[🔗 배포 사이트 방문하기](https://d19bqtdupah4y8.cloudfront.net/)**
 
 | 프로젝트 / 구분 | 설명 | 기술 스택 | 링크 |
 | :---: | --- | --- | --- |
