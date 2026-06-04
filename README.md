@@ -3,7 +3,7 @@
 
 | 프로젝트 / 구분 | 설명 | 기술 스택 | 링크 |
 | :---: | --- | --- | --- |
-| **TasteRadar**<br><sub>(개인 프로젝트)</sub> | **사용자 취향 분석 맛집 추천 서비스**<br>• 실시간 위치 기반 가게 검색<br>• 리뷰 기반 메뉴 추천 | **[BE]** Java 21, Spring Boot,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Security, JPA, MySQL, Redis<br>**[FE]** React, Vite, JS | [![Live Demo]][TasteRadar-Demo]<br><br>[![Backend]][TasteRadar-BE] [![Frontend]][TasteRadar-FE]<br>[![요구명세서]][TasteRadar-Doc1] [![API명세서]][TasteRadar-Doc2]<br>[![발표PPT]][TasteRadar-PPT] |
+| **TasteRadar**<br><sub>(개인 프로젝트)</sub> | **사용자 취향 분석 맛집 추천 서비스**<br>• 실시간 위치 기반 가게 검색<br>• 리뷰 기반 메뉴 추천 | **[BE]** Java 21, Spring Boot,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Security, JPA, MySQL, Redis<br>**[FE]** HTML, CSS, JavaScript (Vanilla), Vite JS | [![Live Demo]][TasteRadar-Demo]<br><br>[![Backend]][TasteRadar-BE] [![Frontend]][TasteRadar-FE]<br>[![요구명세서]][TasteRadar-Doc1] [![API명세서]][TasteRadar-Doc2]<br>[![발표PPT]][TasteRadar-PPT] |
 | **EatNow**<br><sub>(팀 프로젝트)</sub> | **가게 검색 및 주문**<br>• 비동기 API 연동 <br>• CRUD | **[BE]** Java, Spring Boot,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, Redis<br>**[FE]** jQuery, Bootstrap, JS | [![Backend]][EatNow-BE] [![Frontend]][EatNow-FE]<br>[![API명세서]][EatNow-Doc1] [![ERD]][EatNow-Doc2]<br>[![고객 와이어프레임]][EatNow-Figma1] [![사장님 와이어프레임]][EatNow-Figma2] |
 | **GameMatcher**<br><sub>(팀 프로젝트)</sub> | **게이머 전적 검색 및 실시간 매칭 플랫폼**<br>• 전적 검색 <br>• 랜덤 매칭 <br>• 스트리밍 <br>• 게임 연동| **[BE]** Java 17, Spring Boot,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Security(OAuth2), MySQL,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WebSocket<br>**[FE]** React 19, TS, Vite, Firebase | [![Repository]][GameMatcher-Repo]<br>[![시연영상]][GameMatcher-Video] [![발표PPT]][GameMatcher-PPT] |
 
