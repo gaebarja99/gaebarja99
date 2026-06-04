@@ -1,14 +1,41 @@
 # 👋 안녕하세요, 임현아입니다!
 >"복잡한 비즈니스 로직을 사용자가 느끼는 가장 직관적인 화면과 기능으로 풀어내는 개발자입니다."
 
----
-
 | 프로젝트 / 구분 | 설명 | 기술 스택 | 링크 |
 | :---: | --- | --- | --- |
-| **TasteRadar**<br><sub>(개인 프로젝트)</sub> | **사용자 취향 분석 맛집 추천 서비스**<br>• 실시간 위치 기반 가게 검색<br>• 리뷰 기반 메뉴 추천 | **[BE]** Java 21, Spring Boot,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Security, JPA, MySQL, Redis<br>**[FE]** React, Vite, JS | [![Live Demo](https://img.shields.io/badge/Live_Demo-FF0000?style=flat-square&logo=googleplay&logoColor=white)](https://d19bqtdupah4y8.cloudfront.net/)<br><br>[![Backend](https://img.shields.io/badge/Backend-007396?style=flat-square)](https://github.com/gaebarja99/taste-radar-BE.git) [![Frontend](https://img.shields.io/badge/Frontend-61DAFB?style=flat-square&logoColor=black)](https://github.com/gaebarja99/taste-radar-FE.git)<br>[![요구명세서](https://img.shields.io/badge/요구명세서-59666C?style=flat-square)](https://full-airplane-477.notion.site/35c65ed6701d8014a75ef11745136984?source=copy_link) [![API명세서](https://img.shields.io/badge/API명세서-FF6C37?style=flat-square)](https://full-airplane-477.notion.site/API-35d65ed6701d808db5c4fe0c7754263d?source=copy_link)<br>[![발표PPT](https://img.shields.io/badge/발표PPT-D14836?style=flat-square)](https://canva.link/q7ztzu8r36yatno) |
-| **EatNow**<br><sub>(팀 프로젝트)</sub> | **가게 검색 및 주문**<br>• 비동기 API 연동 <br>• CRUD | **[BE]** Java, Spring Boot,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, Redis<br>**[FE]** jQuery, Bootstrap, JS | [![Backend](https://img.shields.io/badge/Backend-007396?style=flat-square)](https://github.com/jiyeon0926/mini-delivery-order-backend) [![Frontend](https://img.shields.io/badge/Frontend-61DAFB?style=flat-square&logoColor=black)](https://github.com/jiyeon0926/mini-delivery-order-frontend.git)<br>[![고객 와이어프레임](https://img.shields.io/badge/고객_와이어프레임-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/xZCTKUYTooFRuDhzNVi86N/Eat-Now?node-id=126-181&p=f&t=rREcAVkrQlpxECov-0) [![사장님 와이어프레임](https://img.shields.io/badge/사장님_와이어프레임-A259FF?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/xZCTKUYTooFRuDhzNVi86N/Eat-Now?node-id=126-182&p=f&t=rREcAVkrQlpxECov-0) |
-| **GameMatcher**<br><sub>(팀 프로젝트)</sub> | **게이머 전적 검색 및 실시간 매칭 플랫폼**<br>• 전적 검색 <br>• 랜덤 매칭 <br>• 스트리밍 <br>• 게임 연동| **[BE]** Java 17, Spring Boot,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Security(OAuth2), MySQL,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WebSocket<br>**[FE]** React 19, TS, Vite, Firebase | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/gaebarja99/game-matching-platform.git)<br>[![시연영상](https://img.shields.io/badge/시연영상-4285F4?style=flat-square)](https://drive.google.com/file/d/10vvO0tvCRcR1RpF-fbHd-9fUmhgqf6jJ/preview) [![발표PPT](https://img.shields.io/badge/발표PPT-D14836?style=flat-square)](https://canva.link/bwkivjhees3gg96) |
----
+| **TasteRadar**<br><sub>(개인 프로젝트)</sub> | **사용자 취향 분석 맛집 추천 서비스**<br>• 실시간 위치 기반 가게 검색<br>• 리뷰 기반 메뉴 추천 | **[BE]** Java 21, Spring Boot,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Security, JPA, MySQL, Redis<br>**[FE]** React, Vite, JS | [![Live Demo]][TasteRadar-Demo]<br><br>[![Backend]][TasteRadar-BE] [![Frontend]][TasteRadar-FE]<br>[![요구명세서]][TasteRadar-Doc1] [![API명세서]][TasteRadar-Doc2]<br>[![발표PPT]][TasteRadar-PPT] |
+| **EatNow**<br><sub>(팀 프로젝트)</sub> | **가게 검색 및 주문**<br>• 비동기 API 연동 <br>• CRUD | **[BE]** Java, Spring Boot,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, Redis<br>**[FE]** jQuery, Bootstrap, JS | [![Backend]][EatNow-BE] [![Frontend]][EatNow-FE]<br>[![API명세서]][EatNow-Doc1] [![ERD]][EatNow-Doc2]<br>[![고객 와이어프레임]][EatNow-Figma1] [![사장님 와이어프레임]][EatNow-Figma2] |
+| **GameMatcher**<br><sub>(팀 프로젝트)</sub> | **게이머 전적 검색 및 실시간 매칭 플랫폼**<br>• 전적 검색 <br>• 랜덤 매칭 <br>• 스트리밍 <br>• 게임 연동| **[BE]** Java 17, Spring Boot,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Security(OAuth2), MySQL,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WebSocket<br>**[FE]** React 19, TS, Vite, Firebase | [![Repository]][GameMatcher-Repo]<br>[![시연영상]][GameMatcher-Video] [![발표PPT]][GameMatcher-PPT] |
+
+[Live Demo]: https://img.shields.io/badge/Live_Demo-FF0000?style=flat-square&logo=googleplay&logoColor=white
+[Backend]: https://img.shields.io/badge/Backend-007396?style=flat-square
+[Frontend]: https://img.shields.io/badge/Frontend-61DAFB?style=flat-square&logoColor=black
+[요구명세서]: https://img.shields.io/badge/요구명세서-59666C?style=flat-square
+[API명세서]: https://img.shields.io/badge/API명세서-FF6C37?style=flat-square
+[발표PPT]: https://img.shields.io/badge/발표PPT-D14836?style=flat-square
+[ERD]: https://img.shields.io/badge/ERD-59666C?style=flat-square
+[고객 와이어프레임]: https://img.shields.io/badge/고객_와이어프레임-F24E1E?style=flat-square&logo=figma&logoColor=white
+[사장님 와이어프레임]: https://img.shields.io/badge/사장님_와이어프레임-A259FF?style=flat-square&logo=figma&logoColor=white
+[Repository]: https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github
+[시연영상]: https://img.shields.io/badge/시연영상-4285F4?style=flat-square
+
+[TasteRadar-Demo]: https://d19bqtdupah4y8.cloudfront.net/
+[TasteRadar-BE]: https://github.com/gaebarja99/taste-radar-BE.git
+[TasteRadar-FE]: https://github.com/gaebarja99/taste-radar-FE.git
+[TasteRadar-Doc1]: https://full-airplane-477.notion.site/35c65ed6701d8014a75ef11745136984?source=copy_link
+[TasteRadar-Doc2]: https://full-airplane-477.notion.site/API-35d65ed6701d808db5c4fe0c7754263d?source=copy_link
+[TasteRadar-PPT]: https://canva.link/q7ztzu8r36yatno
+
+[EatNow-BE]: https://github.com/jiyeon0926/mini-delivery-order-frontend
+[EatNow-FE]: https://github.com/jiyeon0926/mini-delivery-order-frontend.git
+[EatNow-Doc1]: https://www.notion.so/33b1445a106f80b9aa2de873dcb7cedd?v=33b1445a106f809c9a3c000c4e046444&source=copy_link
+[EatNow-Doc2]: https://www.notion.so/ERD-33b1445a106f8075ae0acf0df7cca185?source=copy_link
+[EatNow-Figma1]: https://www.figma.com/design/xZCTKUYTooFRuDhzNVi86N/Eat-Now?node-id=126-181&p=f&t=rREcAVkrQlpxECov-0
+[EatNow-Figma2]: https://www.figma.com/design/xZCTKUYTooFRuDhzNVi86N/Eat-Now?node-id=126-182&p=f&t=rREcAVkrQlpxECov-0
+
+[GameMatcher-Repo]: https://github.com/gaebarja99/game-matching-platform.git
+[GameMatcher-Video]: https://drive.google.com/file/d/10vvO0tvCRcR1RpF-fbHd-9fUmhgqf6jJ/preview
+[GameMatcher-PPT]: https://canva.link/bwkivjhees3gg96
 ## 🛠️ Tech Stacks
 
 | 구분 | 기술 스택 뱃지 |
