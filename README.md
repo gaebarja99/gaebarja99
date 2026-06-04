@@ -26,7 +26,7 @@
 [TasteRadar-Doc2]: https://full-airplane-477.notion.site/API-35d65ed6701d808db5c4fe0c7754263d?source=copy_link
 [TasteRadar-PPT]: https://canva.link/q7ztzu8r36yatno
 
-[EatNow-BE]: https://github.com/jiyeon0926/mini-delivery-order-frontend
+[EatNow-BE]: https://github.com/jiyeon0926/mini-delivery-order-backend.git
 [EatNow-FE]: https://github.com/jiyeon0926/mini-delivery-order-frontend.git
 [EatNow-Doc1]: https://www.notion.so/33b1445a106f80b9aa2de873dcb7cedd?v=33b1445a106f809c9a3c000c4e046444&source=copy_link
 [EatNow-Doc2]: https://www.notion.so/ERD-33b1445a106f8075ae0acf0df7cca185?source=copy_link
